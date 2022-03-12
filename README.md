@@ -1,5 +1,4 @@
-<p align="center">
-<img src="hthttps://github.com/zeeoneofc/Alphabot-Md/blob/v5/image/lol.jpg" alt="ALPHA BOT" width="100"/>
+```ALPHA BOT```
 
 
 </p>
